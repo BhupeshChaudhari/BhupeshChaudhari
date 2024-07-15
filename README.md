@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhupesh Chaudhari</h1>
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Java, Python, JavaScript, React**
+- 💬 Ask me about **Java, Python, ML, React**
 
 - 📫 How to reach me **bhupeshchaudhari19@gmail.com**
 
